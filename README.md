@@ -47,6 +47,6 @@ __Issue2__
             solved: build path - add webapp folder
         
 
-### Result
+### Example
 
 ![result](https://github.com/dianakoh/settingweb/blob/master/result.jpg)
